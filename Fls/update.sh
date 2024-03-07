@@ -43,7 +43,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/Tomketstore/v5/main/Cdy/menu.zip
+    wget https://raw.githubusercontent.com/Tomketstore/v5/main/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     enc menu/*
