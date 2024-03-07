@@ -44,8 +44,6 @@ fun_bar() {
 }
 res1() {
     wget https://raw.githubusercontent.com/Tomketstore/v5/main/Cdy/menu.zip
-    wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/Tomketstore/v5/main/Enc/encrypt" ; chmod +x /usr/bin/enc
-    7z e -paskykenza123 menu.zip
     unzip menu.zip
     chmod +x menu/*
     enc menu/*
