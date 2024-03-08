@@ -9,5 +9,5 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/Tomketstore/v5/main/update.sh/update && chmod +x update && ./update</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/Tomketstore/v5/main/update /update && chmod +x update && ./update</code></pre>
 ```
